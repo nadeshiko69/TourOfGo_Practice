@@ -3,5 +3,6 @@ package main
 func main() {
 	// loopAndFunctions()
 	// slices()
-	maps()
+	// maps()
+	fibonacciClosure()
 }
