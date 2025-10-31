@@ -13,7 +13,7 @@ func Sqrt(x float64) float64 {
 	return z
 }
 
-func main() {
+func loopAndFunctions() {
 	tmp := float64(12345)
 	fmt.Println(Sqrt(tmp))
 	fmt.Println(math.Sqrt(tmp))
