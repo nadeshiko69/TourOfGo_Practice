@@ -2,5 +2,6 @@ package main
 
 func main() {
 	// loopAndFunctions()
-	slices()
+	// slices()
+	maps()
 }
