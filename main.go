@@ -4,5 +4,6 @@ func main() {
 	// loopAndFunctions()
 	// slices()
 	// maps()
-	fibonacciClosure()
+	// fibonacciClosure()
+	Stringers()
 }
