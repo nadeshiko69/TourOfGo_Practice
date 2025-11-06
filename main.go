@@ -5,5 +5,6 @@ func main() {
 	// slices()
 	// maps()
 	// fibonacciClosure()
-	Stringers()
+	// Stringers()
+	errors()
 }
