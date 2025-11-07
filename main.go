@@ -6,5 +6,6 @@ func main() {
 	// maps()
 	// fibonacciClosure()
 	// Stringers()
-	errors()
+	// errors()
+	Readers()
 }
