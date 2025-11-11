@@ -9,5 +9,6 @@ func main() {
 	// errors()
 	// Readers()
 	// Rot13Reader()
-	Images()
+	// Images()
+	equivalentBinaryTrees()
 }
