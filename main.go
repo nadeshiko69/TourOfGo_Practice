@@ -10,5 +10,6 @@ func main() {
 	// Readers()
 	// Rot13Reader()
 	// Images()
-	equivalentBinaryTrees()
+	// equivalentBinaryTrees()
+	crawler()
 }
